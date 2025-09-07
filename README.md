@@ -1,5 +1,7 @@
 # NeuroScan: AI-Powered Local Code Analyzer
 
+<img src="https://github.com/ashishsecdev/NeuroScan/blob/main/NeuroScan.png" alt="NeuroScan" width="500" height="800"/>
+
 **NeuroScan** is a local code analysis tool that leverages a self-hosted LLM via Ollama to scan your code for potential vulnerabilities, unsafe practices, and logic flaws—all without sending your code to third-party APIs. It provides insights through an interactive Streamlit GUI and allows exporting reports in PDF format.
 
 ---
